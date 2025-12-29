@@ -18,6 +18,7 @@ The documents below cover single- and multiple-candle formations, support & resi
 | [Candle Sticks - Multiple 3](./Candle%20Sticks%20-%20Multiple%203.md) | Multi-candle formations — part 3 |
 | [Support and Resistance](./Support%20and%20Resistance.md) | Notes and examples on S/R levels |
 | [Volumes](./Volumes.md) | Volumes and its impacts |
+| [Moving Averages](./Moving%20Averages.md) | Moving Averages and trading systems based on MA |
 
 ---
 
