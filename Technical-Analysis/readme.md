@@ -1,19 +1,22 @@
 # Technical Analysis — Notes & Patterns
+## Overview
 
-A structured collection of candlestick pattern notes covering single- and multiple-candle formations used for trading analysis and study.
+The documents below cover single- and multiple-candle formations, support & resistance, and introductory material to technical analysis. Use the index to jump to a file, or click headings within files to go to specific sections.
 
 ---
 
-## Table of Contents
+## Documentation Index
 
-The list below is presented in a PDF-style index: numbered entries, short descriptions, and direct links to each markdown file in this folder.
-
-1. [Single Candle Sticks 1](5.Single-Canlde-Sticks-1.md) — Introduction to single-candle patterns and basic formations
-2. [Single Candle Sticks 2](6.Single-Candle-Sticks-2.md) — Advanced single-candle analysis and interpretation
-3. [Single Candle Sticks 3](7.Single-Candle-Sticsk-3.md) — Complex single-candle patterns and trading signals
-4. [Multiple Candle Sticks 1](8.Multiple-Candle-Sticks-1.md) — Intro to multi-candle formations and combinations
-5. [Multiple Candle Sticks 2](9.Multiple-Candle-Sticks-2.md) — Advanced multi-candle pattern analysis
-6. [Multiple Candle Sticks 3](10.Multiple-Candle-Sticks-3.md) — Complex multi-candle formations and market implications
+| File | Description |
+|------|-------------|
+| [Introducing to Technical Analysis](./Introducing%20to%20Technical%20Analysis.md) | Short primer and concepts overview |
+| [Candle Sticks - Single 1](./Candle%20Sticks%20-%20Single%201.md) | Single-candle patterns — part 1 |
+| [Candle Sticks - Single 2](./Candle%20Sticks%20-%20Single%202.md) | Single-candle patterns — part 2 |
+| [Candle Sticks - Single 3](./Candle%20Sticks%20-%20Single%203.md) | Single-candle patterns — part 3 |
+| [Candle Sticks - Multiple 1](./Candle%20Sticks%20-%20Multiple%201.md) | Multi-candle formations — part 1 |
+| [Candle Sticks - Multiple 2](./Candle%20Sticks%20-%20Multiple%202.md) | Multi-candle formations — part 2 |
+| [Candle Sticks - Multiple 3](./Candle%20Sticks%20-%20Multiple%203.md) | Multi-candle formations — part 3 |
+| [Support and Resistance](./Support%20and%20Resistance.md) | Notes and examples on S/R levels |
 
 ---
 

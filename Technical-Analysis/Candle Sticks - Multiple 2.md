@@ -22,7 +22,7 @@
     *   *Risk-Taker:* Buy at P2 close (~835 in Axis Bank example).
     *   *Risk-Averse:* Buy on Day 3 after Blue candle confirmation.[1]
 
-![Bullish Harami](Images/L9.Bullish-Harami.jpg)
+![Bullish Harami](Images/Bullish-Harami.jpg)
 
 ***
 
@@ -41,7 +41,7 @@
     *   *Risk-Taker:* Short at P2 close.
     *   *Risk-Averse:* Short on Day 3 after Red candle confirmation.[1]
 
-![Bearish Harami](Images/L9.Bearish-Harami.jpg)
+![Bearish Harami](Images/Bearish-Harami.jpg)
 
 ***
 
@@ -70,4 +70,4 @@
 - Flat trend = Ignore the pattern.[1]
 
 ## Sources
-[9. Multiple candlestick patterns (Part 2)](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-2/)
+[1] [Multiple candlestick patterns (Part 2)](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-2/)

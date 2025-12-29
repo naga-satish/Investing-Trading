@@ -25,6 +25,8 @@ A 3-candle pattern that appears at the **bottom of a downtrend**.
 *   **Action:** **Buy (Long)**.
 *   **Stoploss (SL):** The **Lowest Low** of the entire pattern (usually P2's low).
 
+![Morning Star](Images/Morning-Star.jpg)
+
 ***
 
 ### 3. The Evening Star (Bearish Reversal)
@@ -40,6 +42,8 @@ A 3-candle pattern that appears at the **top of an uptrend**.
 *   **Action:** **Sell (Short)**.
 *   **Stoploss (SL):** The **Highest High** of the entire pattern (usually P2's high).[1]
 
+![Evening Star](Images/Evening-Star.jpg)
+
 ***
 
 ### 4. Morning vs. Evening Star: Quick Comparison
@@ -53,8 +57,6 @@ A 3-candle pattern that appears at the **top of an uptrend**.
 | **P3** | Gap **Up** Blue | Gap **Down** Red |
 | **Action** | **Buy** at P3 Close | **Sell** at P3 Close |
 | **Stoploss** | Lowest Low | Highest High |
-
-[1]
 
 ***
 
@@ -76,4 +78,4 @@ A 3-candle pattern that appears at the **top of an uptrend**.
 *   **Adaptability:** Once you understand the logic (Price Action), you can react to any chart, even if it doesn't fit a textbook pattern exactly.[1]
 
 ## Sources
-[Multiple Candlestick Patterns (Part 3)](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-3/)
+[1] [Multiple Candlestick Patterns (Part 3)](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-3/)

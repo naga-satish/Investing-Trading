@@ -3,7 +3,7 @@
 ## 1. The Spinning Top (The "Indecision" Candle)
  Unlike the Marubozu (which signals specific entry/exit), the Spinning Top signals **indecision** and helps you position your trade size rather than giving a direct signal [1].
 
- ![Spinning Top](Images/L6.Spinning-Top.jpg)
+ ![Spinning Top](Images/Spinning-Top.jpg)
 
 *   **Visual Structure:**
     *   **Real Body:** Very small (Open and Close are very near each other).
@@ -43,7 +43,7 @@ A Spinning Top in isolation is useless. It must be read in the context of the **
 ## 3. The Doji
 The Doji is virtually identical to the Spinning Top in meaning and application.
 
-![Doji](Images/L6.Doji.jpg)
+![Doji](Images/Doji.jpg)
 
 *   **Visual Structure:**
     *   **Real Body:** Non-existent (Open = Close). Looks like a cross or a plus sign.
@@ -66,4 +66,4 @@ The Doji is virtually identical to the Spinning Top in meaning and application.
 | **Probability** | 50% Reversal / 50% Continuation | 50% Reversal / 50% Continuation | High Probability Direction |
 
 ## Sources
-- [1] [Single Candlestick patterns (Part 2)](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-2/)
+[1] [Single Candlestick patterns (Part 2)](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-2/)

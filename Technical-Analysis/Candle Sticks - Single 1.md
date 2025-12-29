@@ -1,7 +1,7 @@
 # Marubozu
 
 ## 1. General Rules for Single Candlesticks
-![Marubozu](Images/L5.Marubozu.jpg)
+![Marubozu](Images/Marubozu.jpg)
 *   **Definition:** Trading signals generated based on a single day’s trading action [1].
 *   **Length Significance:** The length of the candle signifies the day's range.
     *   *Long Candle:* Intense buying or selling activity.

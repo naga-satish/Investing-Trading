@@ -2,7 +2,7 @@
 
 ## 1. The Paper Umbrella
 
-![Paper Umbrella](Images/L7.Paper-umbrella.jpg)
+![Paper Umbrella](Images/Paper-umbrella.jpg)
 
 A single candlestick pattern that helps set up directional trades.
 *   **Structure:** Small real body at the upper end, with a **long lower shadow**.
@@ -13,7 +13,7 @@ The interpretation changes based on the **prior trend**:
 1.  **Bottom of a Downtrend** $\rightarrow$ **Hammer** (Bullish)
 2.  **Top of an Uptrend** $\rightarrow$ **Hanging Man** (Bearish)
 
-![Hammer-Hanging-Man](Images/L7.Hammer-Hanging-Man.jpg)
+![Hammer-Hanging-Man](Images/Hammer-Hanging-Man.jpg)
 
 ***
 
@@ -52,7 +52,7 @@ Looks like an **inverted** Paper Umbrella.
     *   *Risk-Taker:* Short on the same day (around 3:20 PM).
     *   *Risk-Averse:* Short on the next day (Day 2) after confirming a Red candle formed [1].
 
-![Shooting Star](Images/L7.Shooting-Star.jpg)
+![Shooting Star](Images/Shooting-Star.jpg)
 ***
 
 ## Quick Revision Summary Table
@@ -64,4 +64,4 @@ Looks like an **inverted** Paper Umbrella.
 | **Shooting Star** | Long Upper Shadow | Uptrend $\uparrow$ | **Sell** | High of Shooting Star |
 
 ## Sources
-[Single Candlestick patterns (Part 3)](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-3/)
+[1] [Single Candlestick patterns (Part 3)](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-3/)

@@ -20,7 +20,7 @@
     *   *Risk-Taker:* Buy on P2 closing (around 3:20 PM) after validating engulfing.
     *   *Risk-Averse:* Buy on Day 3 (day after P2) after confirming a Blue candle forms.[1]
 
-![Bullish-Engulfing](Images/L8.Bullish-Engulfing.jpg)
+![Bullish-Engulfing](Images/Bullish-Engulfing.jpg)
 ***
 
 ## 3. Bearish Engulfing Pattern (Sell Signal)
@@ -36,7 +36,7 @@
     *   *Risk-Taker:* Short on P2 closing (around 3:20 PM) after validating engulfing.
     *   *Risk-Averse:* Short on Day 3 (day after P2) after confirming a Red candle forms.[1]
 
-![Bearish-Engulfing](Images/L8.Bearish-Engulfing.jpg)
+![Bearish-Engulfing](Images/Bearish-Engulfing.jpg)
 
 ---
 
@@ -50,7 +50,7 @@
     *   *Note:* If it covers < 50%, it is **not** a Piercing Pattern. If it covers > 100%, it is Bullish Engulfing.[1]
 *   **Preference:** The Bullish Engulfing is a stronger signal than the Piercing Pattern.
 
-![Piercing Pattern](Images/L8.Piercing-Pattern.jpg)
+![Piercing Pattern](Images/Piercing-Pattern.jpg)
 
 ***
 
@@ -63,7 +63,7 @@
     *   **Rule:** P2's Red body engulfs between **50% and 100%** of P1's Blue body.
 *   **Preference:** The Bearish Engulfing is a stronger signal than Dark Cloud Cover.[1]
 
-![Dark Cloud Cover](Images/L8.Dark-Cloud-Cover.jpg)
+![Dark Cloud Cover](Images/Dark-Cloud-Cover.jpg)
 
 ***
 
@@ -72,7 +72,7 @@
 *   **Example:** Uptrend $\rightarrow$ Bearish Engulfing $\rightarrow$ Doji.
     *   The Doji indicates indecision/uncertainty following the panic of the engulfing pattern. This "Panic + Uncertainty" recipe often leads to a strong price drop.[1]
 
-![Bearish Engulfing with Doji](Images/L8.Bearish-Engulfing-with-Doji.jpg)
+![Bearish Engulfing with Doji](Images/Bearish-Engulfing-with-Doji.jpg)
 
 ***
 
@@ -86,4 +86,4 @@
 | **Dark Cloud Cover** | Up $\uparrow$ | Blue | Red | 50% - <100% | Sell | High of Pattern |
 
 ## Sources
-[8. Multiple candlestick patterns (Part 1)](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
+[1] [Multiple candlestick patterns (Part 1)](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
